@@ -10,7 +10,7 @@ on:
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip'
+        default: 'miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
